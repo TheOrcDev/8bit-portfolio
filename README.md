@@ -1,6 +1,8 @@
-![pixel-orc](https://github.com/TheOrcDev/8bit-portfolio/assets/7549148/349c8acd-4b21-4996-b631-5227b2eb3fc3)
+<div align="center">
+  <img src="https://github.com/TheOrcDev/8bit-portfolio/assets/7549148/349c8acd-4b21-4996-b631-5227b2eb3fc3" alt="pixel-orc"/>
+</div>
 
-## 8-bit Pixely Portfolio Template
+## 8-bit Pixely Portfolio Orcish Template
 
 First, run the development server:
 
